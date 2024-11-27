@@ -19,7 +19,7 @@ h1{
 }
 
 .half-width img{
-    width: 50%;
+    width: 100%;
 }
 
 .top-banner{
@@ -30,6 +30,7 @@ h1{
 
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 
 .link-button{
