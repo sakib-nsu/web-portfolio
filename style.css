@@ -11,10 +11,14 @@ h1{
     color: orange;
 }
 
+p{
+    color: dimgray;
+}
+
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 5%;
+    margin-left: 4%;
     padding: 2%;
 }
 
@@ -41,5 +45,10 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
 
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
