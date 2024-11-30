@@ -11,11 +11,15 @@ h1{
     color: orange;
 }
 .blue-highlight{
-    color: rgb(54, 168, 193);
+    color: rgb(189, 189, 95);
 }
 
 p{
     color: dimgray;
+}
+.text-color{
+    color: rgb(12, 70, 59);
+
 }
 
 .half-width{
@@ -43,7 +47,7 @@ section{
 .link-button{
     text-decoration: none;
     background-color: orange;
-    background-image: linear-gradient(45deg, lightsalmon tomato);
+    background-image: linear-gradient(90deg, rgb(206, 142, 110) tomato);
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
