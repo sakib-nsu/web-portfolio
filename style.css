@@ -26,7 +26,7 @@ p{
 }
 
 .half-width img{
-    width: 50%;
+    width: 80%;
 }
 
 .top-banner{
@@ -37,7 +37,7 @@ p{
 
 section{
     height: 500px;
-    padding-bottom: 150px;
+    padding-bottom: 50px;
 }
 
 .link-button{
@@ -58,20 +58,17 @@ section{
 
 .text-experiences{
     text-align: center;
-    text-decoration: none;
     background-color: rgb(68, 91, 19);
-    background-image: linear-gradient(45deg, lightsalmon tomato);
-    padding: 10px 20px 10px 10px;
+    padding: 10px 10px 10px 10px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
-    width: 300px;
 }
 
 .single-experience{
-    box-shadow: 10px 20px 40px rgb(154, 173, 154);
+    box-shadow: 10px 20px 50px rgb(141, 164, 104);
     border-radius: 5px;
-    height: 80%;
+    height: 50%;
     background-color: white;
 }
 
@@ -84,14 +81,10 @@ section{
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon tomato);
-    border-image-slice: 20;
-}
-
-#full-stack2{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue cyan);
     border-image-slice: 1;
 }
+
 footer p{
+    font-size: 20px;
     text-align: center;
 }
