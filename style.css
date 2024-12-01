@@ -41,7 +41,8 @@ p{
 
 section{
     height: 500px;
-    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .link-button{
@@ -60,13 +61,12 @@ section{
     background-position: right;
 }
 
-.text-experiences{
-    text-align: center;
-    background-color: rgb(68, 91, 19);
-    padding: 10px 10px 10px 10px;
+.experience{
+    height: 100px;
+    justify-content: center;
+    color: rgb(52, 63, 116);
     border-radius: 5px;
-    color: white;
-    font-weight: 700;
+    font-weight: 700;    
 }
 
 .single-experience{
